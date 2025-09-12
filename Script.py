@@ -249,11 +249,11 @@ User - {}"""
 
 ♔  Premium Plans♔
 
-❖ 1 Week Plan  20Rs(1 Time only)
-❖ 1 Month Plan  69Rs
-❖ 3 Month Plan  179Rs
-❖ 6 Month Plan  299Rs
-❖ 1 year Plan  549Rs
+❖ 1 Week Plan  10Rs(1 Time only)
+❖ 1 Month Plan  30Rs
+❖ 3 Month Plan  90Rs
+❖ 6 Month Plan  180Rs
+❖ 1 year Plan  360Rs
 
 ❝Porn Plan Free With 1 Year Plan❞
 
@@ -270,11 +270,11 @@ Team ● AKIMAX 🍷
     
 ♔  Premium Plans♔
 
-❖ 1 Week Plan  20Rs(1 Time only)
-❖ 1 Month Plan  69Rs
-❖ 3 Month Plan  179Rs
-❖ 6 Month Plan  299Rs
-❖ 1 year Plan  549Rs
+❖ 1 Week Plan  10Rs(1 Time only)
+❖ 1 Month Plan  30Rs
+❖ 3 Month Plan  90Rs
+❖ 6 Month Plan  180Rs
+❖ 1 year Plan  360Rs
 
 ❝Porn Plan Free With 1 Year Plan❞
 
@@ -461,6 +461,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://telegram.dog/JisshuDeveloperBot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://telegram.dog/im_jisshu">Z I Ƨ Ή Λ П ♡</a></b>"""
+
 
 
 
