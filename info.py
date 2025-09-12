@@ -39,7 +39,7 @@ CHANNELS = [
 ]
 
 # ForceSub Channel & Log Channels
-AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002437541681"))
+AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "--1002986773524"))
 AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1002437541681"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002084819782"))
 LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1002084819782"))
@@ -62,7 +62,7 @@ REQUEST_CHANNEL = (
     if request_channel and id_pattern.search(request_channel)
     else None
 )
-MOVIE_UPDATE_CHANNEL = int(environ.get("MOVIE_UPDATE_CHANNEL", "-1002437541681"))
+MOVIE_UPDATE_CHANNEL = int(environ.get("MOVIE_UPDATE_CHANNEL", "-1002986773524"))
 
 # Added Link Here Not Id
 SUPPORT_CHAT = environ.get("SUPPORT_CHAT", "https://t.me/akDiscussion_group")
